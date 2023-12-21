@@ -1,7 +1,7 @@
 # Raz Travello Django
 
 ## Project Overview
-Raz---Travello is a Django-based web application designed to showcase various travel destinations. The application allows users to view details about different destinations, including names, images, descriptions, prices, and special offers.
+Raz Travello is a Django-based web application designed to showcase various travel destinations. The application allows users to view details about different destinations, including names, images, descriptions, prices, and special offers.
 
 ## Features
 - Display of multiple travel destinations with engaging descriptions and images.
